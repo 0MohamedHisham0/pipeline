@@ -30,4 +30,4 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
-                  tags: $/pipeline:latest
+                  tags: $/clockbox:latest
